@@ -75,11 +75,11 @@
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.ОсновныеНачисления.Attribute.ДатаНачала" id="cc961c22-5bb6-462c-a5bc-32d36c367400"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.ОсновныеНачисления.Attribute.Подразделение" id="f92db57c-416d-44ee-a2ec-1cdac8dfd136"/>
 		</Metadata>
-		<Metadata name="Document.ПриходДенег" id="261e892c-7c65-4789-9b17-f1b18ad831cf" configVersion="9034618ed73a974699e9e451daa1606300000000">
+		<Metadata name="Document.ПриходДенег" id="261e892c-7c65-4789-9b17-f1b18ad831cf" configVersion="ecb2d0cbe6ea1a4c8ec90e9db52f7f4300000000">
 			<Metadata name="Document.ПриходДенег.Attribute.Контрагент" id="abee934a-35d4-4467-86ec-db32146e4579"/>
 			<Metadata name="Document.ПриходДенег.Attribute.Сумма" id="c5707e63-9486-49b1-8162-fdbb0e479235"/>
 		</Metadata>
-		<Metadata name="Document.ПриходДенег.ObjectModule" id="261e892c-7c65-4789-9b17-f1b18ad831cf.0" configVersion="7f694d60d1d39149a4fdbfaf707fe25c00000000"/>
+		<Metadata name="Document.ПриходДенег.ObjectModule" id="261e892c-7c65-4789-9b17-f1b18ad831cf.0" configVersion="733981ded8133e4588688cbe78d235a300000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="3a481469-d431-4486-ab67-5942019bba64" configVersion="b3305b5aeb117f4b90a9b52f1e9d6c6c00000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="17f1d679-ff18-427e-bb12-04efe1cf657f"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры" id="5d371be8-ad53-40a7-a072-8bb5cbfc9494"/>
@@ -88,17 +88,18 @@
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Цена" id="8d229538-0ade-4d4a-9e5e-db24cbdee95b"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.СуммаПоДокументу" id="e5346aa8-c4b4-4b82-b4b0-f9ba3cd78b69"/>
 		</Metadata>
-		<Metadata name="Document.РасходнаяНакладная" id="91b76afc-5d36-41da-8ff3-95f8e80df723" configVersion="8097234c26958544b35da90a5707848c00000000">
+		<Metadata name="Document.РасходнаяНакладная" id="91b76afc-5d36-41da-8ff3-95f8e80df723" configVersion="f7dacddcafb7c4488d59bd839eccab7500000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="035633fb-4c65-453e-880a-ed2aa75c76b2"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="0b8b4b3d-de5d-4b96-b29c-558b83a0e140"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры" id="23d0506a-8a80-4ea0-a3d3-19157128f289"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="7538de18-042e-4a97-bb46-ab57294b8c90"/>
 			<Metadata name="Document.РасходнаяНакладная.Attribute.Контрагент" id="be852ee0-8bdb-4598-b186-c225435af6bf"/>
+			<Metadata name="Document.РасходнаяНакладная.Attribute.СуммаДокумента" id="e08a571e-7664-495b-9b3e-f4561785451f"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Цена" id="e7d887b0-0392-4326-a04d-a34a6a9714e7"/>
 		</Metadata>
-		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="12adde45-5a71-4ced-a207-d64761533f9f" configVersion="25360bcad85fbe48916b6f76bcfa205d00000000"/>
-		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="12adde45-5a71-4ced-a207-d64761533f9f.0" configVersion="0a0493b26cfd4e4b8d3d7716981a0d1a00000000"/>
-		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="91b76afc-5d36-41da-8ff3-95f8e80df723.0" configVersion="5910c9da071401419464ea9b1aa5db1800000000"/>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="12adde45-5a71-4ced-a207-d64761533f9f" configVersion="f0e376231f696c42b27e2b8eef456bbc00000000"/>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="12adde45-5a71-4ced-a207-d64761533f9f.0" configVersion="15b975aafd56914e9f17d1f221fba98500000000"/>
+		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="91b76afc-5d36-41da-8ff3-95f8e80df723.0" configVersion="7bed66c13cb5714f8ff9521e67de700a00000000"/>
 		<Metadata name="Enum.ВидыНоменклатуры" id="6b137d10-0962-4bbd-925f-e7086a8853a5" configVersion="379c9a5cd773384abcaf6d022185d69100000000">
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="22895f73-ea55-4dc3-96eb-e9c2d44f8ef2"/>
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="a124af41-372f-4714-9626-a4bb956fbfe5"/>
